@@ -1,0 +1,3 @@
+user_id,name,email,enrollment_type,status,error_message,attempt
+202814,Test student,9ef1c23c9e272413bd398b0cc954a446c32f561c,StudentViewEnrollment,400,"{""message"":""Invalid type""}",first
+202814,Test student,9ef1c23c9e272413bd398b0cc954a446c32f561c,StudentViewEnrollment,400,"{""message"":""Invalid type""}",retry
